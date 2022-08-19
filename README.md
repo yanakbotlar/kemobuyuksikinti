@@ -1,5 +1,5 @@
 <h1>
-<p>Beyler cümleten selamın aleyküm ben kemo büyük sıkıntı 
+<p>Beyler cümleten selamın aleyküm ben kemo büyük sıkıntı <img src="https://komarev.com/ghpvc/?username=kemobuyuksikinti&label=Profile%20Viewers&color=37fa3f" alt="ibidi" />
 </body>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/983770620787572777)](https://discord.com/users/983770620787572777)
