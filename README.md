@@ -1,5 +1,5 @@
-<h1>
-<p>           <p><p> Beyler cümleten selamın aleyküm ben kemo büyük sıkıntı 
+<p align="center">
+<h1>Beyler cümleten selamın aleyküm ben kemo büyük sıkıntı 
 
 
 
